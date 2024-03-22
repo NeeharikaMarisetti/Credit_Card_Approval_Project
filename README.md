@@ -1,0 +1,1 @@
+Developed a machine learning model to predict credit card approval decisions based on applicant historical data including demographics. Aimed for accurate classification to minimize risk and maximize approval rates while adhering to regulatory standards and avoiding discrimination
